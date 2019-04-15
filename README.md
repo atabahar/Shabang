@@ -54,6 +54,7 @@ Group Project - README Template
 * VIP Screen 
 
 ### 3. Navigation
+
 **Tab Navigation** (Tab to Screen)
 
 * Profile
