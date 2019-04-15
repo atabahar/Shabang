@@ -2,7 +2,7 @@
 Group Project - README Template
 ===
 
-# Date App
+# Dating App
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -12,7 +12,7 @@ Group Project - README Template
 
 ## Overview
 ### Description
- This app will be build to make Tinder better, more fun and meaningful.
+ This app will be built to make dating world more fun, enjoyable and meaningful.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
@@ -23,7 +23,6 @@ Group Project - README Template
 - **Habit: This app could be used as often or unoften as the user wanted depending on how deep their social life is, and what exactly they're looking for. 
 - **Scope: First we would start with having user sign up and make up their own profiles. Then users will be seeing other users' profile. It'll become larger as the app grows with some fun features.
 
-
 ## Product Spec
 
 ### 1. User Stories (Required and Optional)
@@ -32,7 +31,7 @@ Group Project - README Template
 
 * User can register a new account, with email and create a profile.
 * User can login, logout
-* User can answer questions about themselves and select their criterias
+* User can answer questions about themselves and select their criteria
 * User can view profiles
 * User can like, pass or superlike a person
 * User can chat with the person they've matched
@@ -40,6 +39,7 @@ Group Project - README Template
 **Optional Nice-to-have Stories**
 
 * New and fun feautures will be added during construction
+
 ### 2. Screen Archetypes
 
 * Login
@@ -54,7 +54,6 @@ Group Project - README Template
 * VIP Screen 
 
 ### 3. Navigation
-*
 **Tab Navigation** (Tab to Screen)
 
 * Profile
