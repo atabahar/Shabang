@@ -91,6 +91,7 @@ Group Project - README Template
        ...
 
 ### Networking
-- [Add list of network requests by screen ]
+- Home Feed Screen
+  (Read/GET) Query all posts where user is author
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
