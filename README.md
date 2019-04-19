@@ -74,18 +74,21 @@ Group Project - README Template
 
 ## Schema 
 **Model
-*ID -> String
-*User -> String
-*Image -> File
-*City -> String
-*Age -> Number
-*Gender -> String
-*Likes -> Number
-*SuperLikes -> Number 
-*Matches -> Number
-*inAge -> Number
-*inDistance -> Number
-*inGender -> String
+
+* ID -> String
+* User -> String
+* Image -> File
+* City -> String
+* Age -> Number
+* Gender -> String
+* Likes -> Number
+* SuperLikes -> Number 
+* Matches -> Number
+* inAge -> Number
+* inDistance -> Number
+* inGender -> String
+* Questions -> File
+       ...
 
 ### Networking
 - [Add list of network requests by screen ]
