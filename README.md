@@ -92,8 +92,9 @@ Group Project - README Template
 
 ### Networking
 - Home Feed Screen
- * (Read/GET) Query all posts where user is author
+    * (Read/GET) Query all posts where user is author
 - Profile Screen
-* (Update/PUT) Update user profile image
+    *(Update/PUT/DELETE/POST) Update user profile image
 - Chat Screen
+    *(Update/DELETE/POST) Update user profile image
 
