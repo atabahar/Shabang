@@ -62,6 +62,12 @@ Group Project - README Template
 * VIP
 * Main Screen
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/sxebzXuuhT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 **Flow Navigation** (Screen to Screen)
 
 * Forced log in
@@ -70,7 +76,6 @@ Group Project - README Template
 * Chat Screen 
    * To see your matches and messages
 * Profile
-* VIP
 
 ## Schema 
 **Model
@@ -97,4 +102,3 @@ Group Project - README Template
    *(Update/PUT/DELETE/POST) Update user profile image
 - Chat Screen
    *(Update/DELETE/POST) Update user profile image
-
