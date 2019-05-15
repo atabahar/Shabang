@@ -66,7 +66,7 @@ Group Project - README Template
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/sxebzXuuhT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/lWo4PjhWUc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 **Flow Navigation** (Screen to Screen)
 
